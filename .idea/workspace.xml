@@ -6,11 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6082b1f8-5f0c-4de4-89dd-223db06f4106" name="Default Changelist" comment="新增加juju.jsp">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/juju.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="6082b1f8-5f0c-4de4-89dd-223db06f4106" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +285,7 @@
       <workItem from="1577947588217" duration="670000" />
       <workItem from="1577948338978" duration="207000" />
       <workItem from="1577948648557" duration="887000" />
-      <workItem from="1581383969829" duration="3781000" />
+      <workItem from="1581383969829" duration="4108000" />
     </task>
     <task id="LOCAL-00001" summary="init第一次初始化">
       <created>1581389880408</created>
@@ -297,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581389880409</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增加juju.jsp">
+      <created>1581410636334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581410636334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,10 +333,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577450422160" />
-    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1581410604592">
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1581410919660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581410604592" />
+    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581410919660" />
     <state x="463" y="102" key="FileChooserDialogImpl" timestamp="1577418495669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -405,10 +409,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="70" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577418500007" />
-    <state x="206" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581410338935">
+    <state x="206" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581410658577">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="206" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581410338935" />
+    <state x="206" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581410658577" />
     <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577410477622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
