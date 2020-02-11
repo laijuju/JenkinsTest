@@ -6,46 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6082b1f8-5f0c-4de4-89dd-223db06f4106" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/classes/com/juju/control/Control.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/classes/com/juju/control/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/classes/com/juju/po/ListUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/classes/com/juju/po/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/classes/com/juju/po/TeacherAndUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/classes/com/juju/po/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/classes/com/juju/utils/MyDataUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/classes/springmvc-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.62.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.33.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web-1.0-SNAPSHOT/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Day_2019_12_23_Web/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/juju/control/Control.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/juju/control/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/juju/po/ListUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/juju/po/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/juju/po/TeacherAndUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/juju/po/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/juju/utils/MyDataUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/springmvc-config.xml" afterDir="false" />
+    <list default="true" id="6082b1f8-5f0c-4de4-89dd-223db06f4106" name="Default Changelist" comment="新增加juju.jsp">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/juju.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -323,8 +288,16 @@
       <workItem from="1577947588217" duration="670000" />
       <workItem from="1577948338978" duration="207000" />
       <workItem from="1577948648557" duration="887000" />
-      <workItem from="1581383969829" duration="1842000" />
+      <workItem from="1581383969829" duration="3781000" />
     </task>
+    <task id="LOCAL-00001" summary="init第一次初始化">
+      <created>1581389880408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581389880409</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +305,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init第一次初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="init第一次初始化" />
+    <MESSAGE value="新增加juju.jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增加juju.jsp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="21" key="#Inspections" timestamp="1577418826969">
@@ -355,10 +329,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577450422160" />
-    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1581389845109">
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1581410604592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581389845109" />
+    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581410604592" />
     <state x="463" y="102" key="FileChooserDialogImpl" timestamp="1577418495669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -431,18 +405,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="70" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577418500007" />
-    <state x="276" y="124" key="Vcs.Push.Dialog.v2" timestamp="1581384896349">
+    <state x="206" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581410338935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="276" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581384896349" />
+    <state x="206" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581410338935" />
     <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577410477622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577410477622" />
-    <state x="368" y="164" key="git4idea.merge.GitPullDialog" timestamp="1581389660754">
+    <state x="477" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581410458249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="164" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1581389660754" />
+    <state x="477" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1581410458249" />
+    <state x="368" y="164" key="git4idea.merge.GitPullDialog" timestamp="1581410466457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="164" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1581410466457" />
     <state x="290" y="176" width="726" height="312" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1577418497456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
