@@ -285,7 +285,7 @@
       <workItem from="1577947588217" duration="670000" />
       <workItem from="1577948338978" duration="207000" />
       <workItem from="1577948648557" duration="887000" />
-      <workItem from="1581383969829" duration="4108000" />
+      <workItem from="1581383969829" duration="4845000" />
     </task>
     <task id="LOCAL-00001" summary="init第一次初始化">
       <created>1581389880408</created>
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581410636334</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改juju.jsp">
+      <created>1581410954054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581410954054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +317,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init第一次初始化" />
     <MESSAGE value="新增加juju.jsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增加juju.jsp" />
+    <MESSAGE value="修改juju.jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改juju.jsp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="21" key="#Inspections" timestamp="1577418826969">
@@ -409,10 +417,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="70" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577418500007" />
-    <state x="206" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581410658577">
+    <state x="206" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581410991776">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="206" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581410658577" />
+    <state x="206" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581410991776" />
     <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577410477622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
